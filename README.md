@@ -1,2 +1,23 @@
-# sales-data-analysis-python
-Sales Data Analysis project using Python, Pandas, Matplotlib, and Seaborn to analyze product and city-wise sales trends with data visualization.
+# 📊 Sales Data Analysis Project
+
+## 📌 Objective
+Analyze sales data to identify trends across products and cities.
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## 📊 Key Analysis
+- Sales by Product
+- Sales by City
+- Data Visualization
+
+## 🔍 Insights
+- Identified top-performing product
+- Compared sales across cities
+- Visualized trends using charts
+
+## 📈 Conclusion
+This project demonstrates how data analysis can provide meaningful insights for business decision-making.
