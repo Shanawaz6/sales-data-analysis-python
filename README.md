@@ -3,12 +3,22 @@
 ## 📌 Objective
 Analyze sales data to identify trends across products and cities.
 
+## ▶️ How to Run
+1. Open the notebook in Jupyter Notebook or VS Code
+2. Install required libraries:
+   pip install pandas matplotlib seaborn
+3. Run all cells to view analysis and visualizations
+   
 ## 🛠 Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 
+## 📂 Project Structure
+- Project.ipynb → Main analysis notebook
+- README.md → Project documentation
+  
 ## 📊 Key Analysis
 - Sales by Product
 - Sales by City
